@@ -1,3 +1,12 @@
+/*
+    PROGRAM :  Blackjack Game
+    AUTHOR  :  Laura Purcell-Gates
+    EMAIL   :  <laurapurcellgates@gmail.com>
+
+    Created as part of Altcademy Full Stack Web Development bootcamp.
+
+    This Blackjack game supports one player playing against the bot dealer, with bets and replays.  */
+
 // create global variable for player bet
 var bet = 100;
 
