@@ -1,5 +1,5 @@
 **Blackjack Game**<br>
-JavaScript code for Blackjack interactive game.<br>
+JavaScript code for Blackjack game.<br>
 Created as part of Altcademy Full Stack Web Development bootcamp.<br><br>
 **Features**
 - cards dealt to user and dealer in random order, cannot be used again once dealt
